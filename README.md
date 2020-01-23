@@ -1,6 +1,6 @@
 # Support Vector Machines on the Breast Cancer Wisconsin (Diagnostic) Data Set
 
-![](nucleus.jpg)
+![](nucleus_cover_image.jpg)
 
 **Attribution**: *Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow*, 2nd Edition, by Aurelien Geron (O'Reilly). Copyright 2019 Kiwisoft S.A.S, 978-1-492-03264-9<br>
 
